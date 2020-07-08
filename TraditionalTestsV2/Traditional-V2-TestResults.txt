@@ -1,0 +1,150 @@
+\Task: 1, Test Name: Verify the Bottom Nav Bar, DOM Id: DIV__row__420, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Email Bar, DOM Id: DIV__formgroup__451, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Filter Icon, DOM Id: ti-filter, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Filter Text, DOM Id: SPAN____209, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Magnifying Glass, DOM Id: BUTTONsubmit____43, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Search Bar, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Side Bar, DOM Id: filter_col, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Tool Tips, DOM Id: UL____223, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Top Menu, DOM Id: UL____21, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the View Bar, DOM Id: LI____201, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Wishlist, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Bottom Nav Bar, DOM Id: DIV__row__420, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Verify the Email Bar, DOM Id: DIV__formgroup__451, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Verify the Filter Icon, DOM Id: ti-filter, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Verify the Filter Text, DOM Id: SPAN____209, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Verify the Magnifying Glass, DOM Id: BUTTONsubmit____43, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Verify the Search Bar, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Verify the Side Bar, DOM Id: filter_col, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Verify the Tool Tips, DOM Id: UL____223, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Verify the Top Menu, DOM Id: UL____21, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Verify the View Bar, DOM Id: LI____201, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Verify the Wishlist, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Verify the Bottom Nav Bar, DOM Id: DIV__row__420, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Email Bar, DOM Id: DIV__formgroup__451, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Filter Icon, DOM Id: ti-filter, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Filter Text, DOM Id: SPAN____209, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Magnifying Glass, DOM Id: BUTTONsubmit____43, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Search Bar, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Side Bar, DOM Id: filter_col, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Tool Tips, DOM Id: UL____223, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Verify the Top Menu, DOM Id: UL____21, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the View Bar, DOM Id: LI____201, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Verify the Wishlist, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Verify the Bottom Nav Bar, DOM Id: DIV__row__420, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Email Bar, DOM Id: DIV__formgroup__451, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Filter Icon, DOM Id: ti-filter, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Filter Text, DOM Id: SPAN____209, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Magnifying Glass, DOM Id: BUTTONsubmit____43, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Search Bar, DOM Id: INPUTtext____42, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Side Bar, DOM Id: filter_col, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Tool Tips, DOM Id: UL____223, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Top Menu, DOM Id: UL____21, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the View Bar, DOM Id: LI____201, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Wishlist, DOM Id: A__wishlist__52, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Bottom Nav Bar, DOM Id: DIV__row__420, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Email Bar, DOM Id: DIV__formgroup__451, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Filter Icon, DOM Id: ti-filter, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Filter Text, DOM Id: SPAN____209, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Magnifying Glass, DOM Id: BUTTONsubmit____43, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Search Bar, DOM Id: INPUTtext____42, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Side Bar, DOM Id: filter_col, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Tool Tips, DOM Id: UL____223, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Verify the Top Menu, DOM Id: UL____21, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the View Bar, DOM Id: LI____201, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Verify the Wishlist, DOM Id: A__wishlist__52, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Verify the Bottom Nav Bar, DOM Id: DIV__row__420, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Email Bar, DOM Id: DIV__formgroup__451, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Filter Icon, DOM Id: ti-filter, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Filter Text, DOM Id: SPAN____209, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Magnifying Glass, DOM Id: BUTTONsubmit____43, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Search Bar, DOM Id: INPUTtext____42, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Side Bar, DOM Id: filter_col, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Tool Tips, DOM Id: UL____223, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Verify the Top Menu, DOM Id: UL____21, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the View Bar, DOM Id: LI____201, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Wishlist, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Verify the Bottom Nav Bar, DOM Id: DIV__row__420, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Email Bar, DOM Id: DIV__formgroup__451, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Filter Icon, DOM Id: ti-filter, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Filter Text, DOM Id: SPAN____209, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Magnifying Glass, DOM Id: BUTTONsubmit____43, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Search Bar, DOM Id: INPUTtext____42, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Side Bar, DOM Id: filter_col, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the Tool Tips, DOM Id: UL____223, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Verify the Top Menu, DOM Id: UL____21, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Verify the View Bar, DOM Id: LI____201, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Verify the Wishlist, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Fail
+
+
+Task: 2, Test Name: Verify Black Shoes, DOM Id: A____215, A____239, grid_item, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Verify Black Shoes, DOM Id: A____215, A____239, grid_item, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Verify Black Shoes, DOM Id: A____215, A____239, grid_item, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Verify Black Shoes, DOM Id: A____215, A____239, grid_item, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Verify Black Shoes, DOM Id: A____215, A____239, grid_item, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Verify Black Shoes, DOM Id: A____215, A____239, grid_item, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Verify Black Shoes, DOM Id: A____215, A____239, grid_item, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Fail
+
+Task: 3, Test Name: Check Add to Cart Btn, DOM Id: A__btn__114, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Current Item Size, DOM Id: current, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Check Discount, DOM Id: discount, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Item Description, DOM Id: P____83, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check New Price, DOM Id: new_price, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Check Old Price, DOM Id: old_price, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Reviews, DOM Id: EM__ratingcoun__82, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Shoe Name, DOM Id: shoe_name, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Stock Unit Number, DOM Id: SMALL____84, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Check Add to Cart Btn, DOM Id: A__btn__114, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Check Current Item Size, DOM Id: current, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Check Discount, DOM Id: discount, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Check Item Description, DOM Id: P____83, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Check New Price, DOM Id: new_price, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Check Old Price, DOM Id: old_price, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Check Reviews, DOM Id: EM__ratingcoun__82, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Check Shoe Name, DOM Id: shoe_name, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Check Stock Unit Number, DOM Id: SMALL____84, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Check Add to Cart Btn, DOM Id: A__btn__114, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Current Item Size, DOM Id: current, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Check Discount, DOM Id: discount, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Item Description, DOM Id: P____83, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check New Price, DOM Id: new_price, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Check Old Price, DOM Id: old_price, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Reviews, DOM Id: EM__ratingcoun__82, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Shoe Name, DOM Id: shoe_name, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Stock Unit Number, DOM Id: SMALL____84, Browser: Chrome, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Check Add to Cart Btn, DOM Id: A__btn__114, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Current Item Size, DOM Id: current, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Check Discount, DOM Id: discount, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Item Description, DOM Id: P____83, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check New Price, DOM Id: new_price, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Check Old Price, DOM Id: old_price, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Reviews, DOM Id: EM__ratingcoun__82, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Shoe Name, DOM Id: shoe_name, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Stock Unit Number, DOM Id: SMALL____84, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Check Add to Cart Btn, DOM Id: A__btn__114, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Current Item Size, DOM Id: current, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Check Discount, DOM Id: discount, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Item Description, DOM Id: P____83, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check New Price, DOM Id: new_price, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Check Old Price, DOM Id: old_price, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Reviews, DOM Id: EM__ratingcoun__82, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Shoe Name, DOM Id: shoe_name, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Stock Unit Number, DOM Id: SMALL____84, Browser: Edge, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Check Add to Cart Btn, DOM Id: A__btn__114, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Current Item Size, DOM Id: current, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Check Discount, DOM Id: discount, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Item Description, DOM Id: P____83, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check New Price, DOM Id: new_price, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Check Old Price, DOM Id: old_price, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Reviews, DOM Id: EM__ratingcoun__82, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Shoe Name, DOM Id: shoe_name, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Stock Unit Number, DOM Id: SMALL____84, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Check Add to Cart Btn, DOM Id: A__btn__114, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Current Item Size, DOM Id: current, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Check Discount, DOM Id: discount, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Item Description, DOM Id: P____83, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check New Price, DOM Id: new_price, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Check Old Price, DOM Id: old_price, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Reviews, DOM Id: EM__ratingcoun__82, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Shoe Name, DOM Id: shoe_name, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Check Stock Unit Number, DOM Id: SMALL____84, Browser: Firefox, Viewport: 786x700, Device: Tablet, Status: Pass
