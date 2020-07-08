@@ -20,6 +20,7 @@
 2. Using the IntelliJ application open up the ModernTestsV1 folder.
 3. Make sure you are running the latest Chrome browser. Or a browser that is compatiable with the Chrome Browser.
 4. Validate that all the dependices and resources installed correctly.
+5. In the resources folder, in the test.properties file, next to the "applitools.api.key=" insert your api key given from Applitools.
 5. You can then run the all the Tasks by right clicking on the package and clicking run, or each Tasks separately
 6. After running the test, the image will then be stored on the Applitools Cloud Test Dashboard.
 7. After logging into Applitools the pictures of the Task will be shown on the Dashboard.
